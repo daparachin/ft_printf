@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+
 #include <stdio.h>
 #include <stdarg.h>
 #include <unistd.h> 
@@ -60,7 +60,6 @@ int main()
     char *f = "sest";
     char *g = "sedm";
     
-    // Write C code here
     ft_printf("ahoj % %",a, b);
     return 0;
 }
